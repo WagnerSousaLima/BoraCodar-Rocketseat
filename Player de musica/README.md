@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="Player de musica/img/boraCodar01.png" width="100%">
+  <img src="img/boraCodar01.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
